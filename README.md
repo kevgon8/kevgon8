@@ -18,7 +18,7 @@ I’m currently learning **C** and am always open to collaborating on exciting n
 - [CS50P Problem Sets](https://github.com/kevgon8/CS50P-Problem-Sets) - Solutions to Harvard’s CS50P problem sets.
 
 ## Contact
-- [Email](kevgon146@gmail.com)
+- [kevgon146@gmail.com](kevgon146@gmail.com)
 
 Feel free to explore my repositories and reach out if you have any questions or want to collaborate!
 
