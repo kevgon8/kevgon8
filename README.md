@@ -2,7 +2,7 @@
 
 ## About Me
 
-My name is **Kevin Gonsalves**. I’m 17 years old and currently pursuing a **Bachelors in Technology in Computer Science and Engineering** with a specialization in **Artificial Intelligence and Machine Learning** (AIML). 
+My name is **Kevin Gonsalves**. I’m 18 years old and currently pursuing a **Bachelors in Technology in Computer Science and Engineering** with a specialization in **Artificial Intelligence and Machine Learning** (AIML). 
 
 I’m currently learning **C** and am always open to collaborating on exciting new projects. Feel free to reach out if you want to work on something together!
 
