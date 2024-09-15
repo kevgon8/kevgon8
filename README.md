@@ -15,7 +15,7 @@ I’m currently learning **C** and am always open to collaborating on exciting n
 ## Projects
 
 - [Instagram Followers Analyzer](https://github.com/kevgon8/Instagram-Follower-Analyzer) - Analyzes Instagram followers data.
-- [CS50P Problem Sets](https://github.com/kevgon8/Instagram-Follower-Analyzer) - Solutions to Harvard’s CS50P problem sets.
+- [CS50P Problem Sets](https://github.com/kevgon8/CS50P-Problem-Sets-Solutions) - Solutions to Harvard’s CS50P problem sets.
 - [To-Do List Application](https://github.com/kevgon8/To-Do-List-App) - Add, view, and manage tasks
 - [SimpleUser Authentication System](https://github.com/kevgon8/User-Authentication-System) - User registration, login, and logout functionalities, with password management using SHA-256 hashing.
 
