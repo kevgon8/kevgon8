@@ -8,7 +8,7 @@ I’m currently learning **C** and am always open to collaborating on exciting n
 
 ## Skills & Interests
 
-- Programming Languages: Python, C
+- Programming Languages: Python, C/C++, Java
 - Web Technologies: HTML, CSS, JavaScript
 - Interests: Artificial Intelligence, Machine Learning, Software Development
 
